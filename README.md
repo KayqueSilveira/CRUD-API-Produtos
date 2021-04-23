@@ -39,7 +39,3 @@ Usuario: root
 Senha: 210713
 Banco: jdbc:mysql://localhost:3306/magalucliente
 ```
-
-## Testes
-
-Foi decido que os testes serão unitarios e ocorrerão na camada Controller e Service (regras) ao mesmo tempo, mockando o necessário.
